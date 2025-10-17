@@ -117,8 +117,6 @@ runs/
 
 # Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
 !gradle-wrapper.jar
-/gradlew
-/gradlew.bat
 /run-data/
 /src/generated/
 /libs/
